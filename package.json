@@ -12,7 +12,8 @@
   "author": "Jim Pick <jim@jimpick.com>",
   "license": "MIT",
   "dependencies": {
-    "hypercore": "^6.12.7",
-    "to-buffer": "^1.1.0"
+    "dat-swarm-defaults": "^1.0.1",
+    "hypercore": "^6.15.0",
+    "to-buffer": "^1.1.1"
   }
 }
